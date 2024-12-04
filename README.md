@@ -10,7 +10,7 @@ A digital clock is a real-time display of the current time using digital numbers
 
 #CSS (Styling)
 
-1.CSS is used to design the appearance of the digital clock.
+1.CSS is used to design the appearance of the digital clock.<br>
 2.You can style the clock's background, font size, color, alignment, and more.
 3.CSS animations can be added to create smooth transitions (optional).
 
