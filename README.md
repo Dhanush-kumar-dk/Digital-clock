@@ -10,7 +10,7 @@ The goal of this project is to create a fully functioning digital clock that upd
 2.The clock will consist of a div element that will display the time.<br>
 3.Each section (hours, minutes, seconds) will be wrapped in specific HTML elements (such as span) to make styling and manipulation easy.<br>
 
-#CSS (Styling)   <img src="https://skillicons.dev/icons?i=css"/ height="40" alt="css">  <img width="12" /><br>
+#CSS (Styling)   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css">  <img width="12" /><br>
 
 1.CSS is used to design the appearance of the digital clock.<br>
 2.You can style the clock's background, font size, color, alignment, and more.<br>
