@@ -18,7 +18,7 @@ The goal of this project is to create a fully functioning digital clock that upd
 
 #JavaScript (Functionality)
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="12" /><br>
 1.JavaScript is used to update the time in real-time.<br>
 2.It grabs the current time using the Date object and updates the content of the clock every second using setInterval().<br>
 3.The setInterval() function will ensure that the time is refreshed every second.<br>
