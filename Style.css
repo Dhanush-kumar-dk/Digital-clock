@@ -1,0 +1,50 @@
+
+.Digital_clock{
+    background-color: #010101;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    border-radius: 2rem;
+    user-select: none;
+    padding: 0 0.2rem;
+    border: 0.5rem solid #2d2d2d;
+    width: 35rem;
+}
+
+.weeK{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 5rem;
+padding:0.5rem;
+color: #2d2d2d;
+font-size: 0.5rem;
+font-weight: bold;
+font-family: "Hack Bold";
+}
+.weeK .active{
+    color: #fff;
+    font-size: 0.75rem
+}
+
+.time{
+    font-family: "MgDigital"; 
+    width: 25rem;
+}
+.hour,
+.minute,
+.seconds,
+.dot{
+    display: inline-block;
+    font-size: 5rem;
+}
+
+.minute{
+    display: math;
+}
+
+
+.invisibility{
+    visibility: hidden;
+}
